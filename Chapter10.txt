@@ -1,0 +1,17 @@
+Begin a new feature and start that feature in a new branch: git flow feature start MYFEATURE
+Finalize feature and publish the feature to the branch developer: ------- git flow feature finish MYFEATURE  
+Publish the feature to codeReview in github------- git flow feature publish MYFEATURE
+Making the merge from my feature to the develop branch(merge the pull request)  ---  git flow feature finish MYFEATURE
+Prepare a branch RELEASE to go to production -- git flow release start RELEASE [BASE]-> HASH do commit pelo qual queremos comecar
+After create the RELEASE branch you publish that branch in github with the command - git flow release publish RELEASE
+
+Finalize the version of the new feature -- git flow release finish RELEASE
+
+Generate an hotfix from the master branch - git flow hotfix start RELEASE
+Finish the hotfix - git flow hotfix finish RELEASE
+
+
+
+I'm working with gitflow, the tool mobile team use to make the version of control of the code.
+
+Trying to make my first git flow publishing.
