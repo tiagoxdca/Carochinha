@@ -15,3 +15,5 @@ Finish the hotfix - git flow hotfix finish RELEASE
 I'm working with gitflow, the tool mobile team use to make the version of control of the code.
 
 Trying to make my first git flow publishing.
+
+Adding a new line while working with Tiago.
