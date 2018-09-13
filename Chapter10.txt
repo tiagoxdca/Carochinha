@@ -1,7 +1,8 @@
 Begin a new feature and start that feature in a new branch: git flow feature start MYFEATURE
 Finalize feature and publish the feature to the branch developer: ------- git flow feature finish MYFEATURE  
 Publish the feature to codeReview in github------- git flow feature publish MYFEATURE
-Making the merge from my feature to the develop branch(merge the pull request)  ---  git flow feature finish MYFEATURE
+Making the tWEHGUSLfkxvm ,.
+a<a<merge from my feature to the develop branch(merge the pull request)  ---  git flow feature finish MYFEATURE
 Prepare a branch RELEASE to go to production -- git flow release start RELEASE [BASE]-> HASH do commit pelo qual queremos comecar
 After create the RELEASE branch you publish that branch in github with the command - git flow release publish RELEASE
 
